@@ -1,7 +1,7 @@
-<!-- 🌑 Fullscreen Stylish Dark-Themed GitHub Profile README for Hamza Ali -->
+<!-- 🌑 Fullscreen Stylish GitHub Profile README for Hamza Ali -->
 
-<h1 align="center" style="color:white; font-size: 40px;">👋 Hi, I'm <span style="color:#00FFFF;">Hamza Ali</span></h1>
-<h3 align="center" style="color:white;">💻 Web Developer | WordPress Expert | Elementor Pro | Freelancer</h3>
+<h1 align="center" style="color:white; font-size: 42px;">👋 Hi, I'm <span style="color:#00FFFF;">Hamza Ali</span></h1>
+<h3 align="center" style="color:white; font-weight:bold;">💻 Web Developer | WordPress Expert | Elementor Pro | Freelancer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Transforming+Ideas+into+Digital+Experiences;Frontend+Web+Developer+%7C+WordPress+Specialist;Let's+Build+Your+Next+Website!" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 **About Me**
 
 ```yaml
 Name: Hamza Ali
@@ -20,17 +20,19 @@ Specialization:
   - Elementor Pro
   - HTML / CSS / JavaScript
 Experience: 6+ Years
-Contact: hamzabinali95@gmail.com | 📞 0309-3070092
+Email: hamzabinali95@gmail.com
+Phone: +92 309 3070092
 ```
 
-- 🎯 I create fast, responsive, modern websites  
+- 🎯 I build fast, responsive, modern websites  
 - 🛠️ Expert in WordPress + Elementor landing pages  
 - 🚀 Focused on SEO, performance & user experience  
 - 💼 Active Freelancer on Fiverr  
 - 🌟 Client Satisfaction is My Priority  
 
+---
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Stack**
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,36 +44,39 @@ Contact: hamzabinali95@gmail.com | 📞 0309-3070092
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+---
 
-## 📈 GitHub Stats
+## 📈 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzabinali95&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabinali95&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
+---
 
-## 💼 Services I Provide
+## 💼 **Services I Provide**
 
-✅ Full WordPress Website Design  
-✅ Landing Pages with Elementor Pro  
-✅ Site Redesigns  
-✅ HTML/CSS/JS Custom Work  
-✅ Bug Fixing & Optimization  
-✅ Mobile Responsive Layouts  
-✅ Page Speed Optimization  
+- ✅ Full WordPress Website Design  
+- ✅ Landing Pages with Elementor Pro  
+- ✅ Site Redesigns  
+- ✅ HTML/CSS/JS Custom Work  
+- ✅ Bug Fixing & Optimization  
+- ✅ Mobile Responsive Layouts  
+- ✅ Page Speed Optimization  
 
 ---
 
-## 🧩 Projects Preview
+## 🧩 **Projects Preview**
 
-| Project Name        | Tech Used               | Preview         |
-|---------------------|-------------------------|------------------|
-| Personal Portfolio  | HTML, CSS, JS           | [Live Demo](https://www.deleuxedesign.com/index.html)|
-| Business Landing    | WordPress + Elementor   | [Live Demo](https://seoignite.com/)|
+| 📝 Project Name       | 💻 Tech Used             | 🔗 Preview Link |
+|-----------------------|--------------------------|------------------|
+| Personal Portfolio    | HTML, CSS, JS            | [View Site](https://www.deleuxedesign.com/index.html) |
+| Business Landing Page | WordPress + Elementor    | [View Site](https://seoignite.com/) |
 
+---
 
-## 🔗 Connect With Me
+## 🔗 **Connect With Me**
 
 <p align="center">
   <a href="https://pk.linkedin.com/in/hamza-ali-0b56bb215" target="_blank">
@@ -88,7 +93,8 @@ Contact: hamzabinali95@gmail.com | 📞 0309-3070092
   </a>
 </p>
 
+---
 
 <p align="center" style="color:white;">
-  🖤 Thanks for visiting! Feel free to reach out — I respond fast!
+  🖤 Thanks for stopping by! Let’s connect — I respond quickly!
 </p>

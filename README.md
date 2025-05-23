@@ -1,47 +1,46 @@
-# 👋 Hi there, I'm Hamza Ali!
-
-I'm a passionate **Web Developer** and **Freelancer** who loves building modern, responsive websites using HTML, CSS, JavaScript, and WordPress (with Elementor). I help individuals and businesses bring their online presence to life with sleek, functional, and SEO-friendly websites.
-
----
-
-## 🛠️ Skills & Tools
-- 💻 HTML | CSS | JavaScript  
-- 🌐 WordPress | Elementor  
-- 🎨 Responsive Web Design  
-- 🧩 Git & GitHub  
+<h1 align="center">👋 Hi, I'm Hamza Ali</h1>
+<p align="center">
+  A creative <b>Web Developer</b> & <b>Freelancer</b> who loves building clean, modern, and responsive websites using WordPress and front-end technologies.
+</p>
 
 ---
 
-## 📫 Let's Connect
-- 🔗 [LinkedIn](https://pk.linkedin.com/in/hamza-ali-0b56bb215)
-- 💼 [Fiverr Profile](https://www.fiverr.com/azlan_webdeve?source=gig_cards&referrer_gig_slug=build-a-responsive-website-using-html-css-js-and-wordpress&ref_ctx_id=2d72f829349e4d05a82fabd137735db0&imp_id=42840168-ab88-4bcb-afb3-ede49971450a)
-- 📧 Email: hamzabinali95@gmail.com
+## 🛠️ Skills & Technologies
 
----
-
-## 🚀 My Goal
-Helping businesses grow online by building clean, fast, and user-friendly websites. Always learning, always building. 💡
-
-Thanks for visiting my GitHub profile! 😊
-
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamza-ali-0b56bb215&show_icons=true&theme=radical)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ali-0b56bb215&layout=compact&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzabinali95&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabinali95&layout=compact&theme=radical" width="48%"/>
+</p>
 
 ---
 
-## 🚀 Tools & Tech Stack
+## 🔗 Connect With Me
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<p align="center">
+  <a href="https://pk.linkedin.com/in/hamza-ali-0b56bb215" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hamzabinali95@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.fiverr.com/azlan_webdeve">
+    <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">Thanks for stopping by! 😄</p>

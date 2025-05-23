@@ -1,7 +1,9 @@
-<h1 align="center" style="color:white;">✨ Welcome to Hamza Ali's GitHub! ✨</h1>
+<!-- Black themed profile README for Hamza Ali -->
+
+<h1 align="center" style="color:white;">🚀 Hamza Ali — Web Developer & Freelancer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Hi+I'm+Hamza+Ali;Web+Developer+%26+Freelancer;Specialist+in+WordPress+and+Frontend;Let's+build+awesome+websites!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Hi+I'm+Hamza+Ali;Frontend+Web+Developer;WordPress+%7C+Elementor+Expert;Freelancer+on+Fiverr;Let's+Build+Something+Great!" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,28 +12,29 @@
 
 ```yaml
 Name: Hamza Ali
-Role: Web Developer & Freelancer
-Specialized In: WordPress, Elementor, HTML, CSS, JavaScript
-Currently: Available for freelance projects 💼
+Role: Freelancer Web Developer
+Focus: WordPress • Elementor • HTML • CSS • JS
+Based in: Pakistan 🇵🇰
+Experience: 3+ Years
 ```
 
-- 🔥 Passionate about clean & modern UI/UX  
-- 🌐 Helping brands go online with performance-focused websites  
-- 🎯 Focused on SEO, speed, and responsive design  
-- 💻 Regularly working on Fiverr  
-- 📬 Email: hamzabinali95@gmail.com  
+- 🎯 I design, build & launch **high-performance websites**  
+- 🌐 Available for freelance work on Fiverr  
+- 🔎 SEO, responsiveness, speed — all included  
+- 📫 Contact me: hamzabinali95@gmail.com  
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Skills & Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
@@ -39,31 +42,41 @@ Currently: Available for freelance projects 💼
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzabinali95&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabinali95&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzabinali95&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabinali95&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 ---
 
-## 🛠️ What I Offer (Fiverr Services)
+## 💼 What I Can Do for You
 
-✅ Responsive Website  
-✅ WordPress Customization  
-✅ Elementor Landing Pages  
-✅ Bug Fixing / Speed Optimization  
-✅ HTML / CSS / JS Static Sites  
-✅ Full Website Creation  
-✅ Redesign Existing Sites
-
-👉 Visit: [💼 My Fiverr Profile](https://www.fiverr.com/azlan_webdeve)
+✅ Build complete responsive websites  
+✅ Customize WordPress themes  
+✅ Elementor landing pages  
+✅ Redesign outdated websites  
+✅ Speed & SEO optimization  
+✅ HTML/CSS/JS bug fixes  
+✅ Convert Figma/PSD to Code  
 
 ---
 
-## 🌐 Let's Connect
+## 🌟 Featured Projects
+
+| Project Name | Tech | Live Demo |
+|--------------|------|-----------|
+| Portfolio Website | HTML, CSS, JS | [Live](#) |
+| Business Site (WordPress) | WordPress + Elementor | [Live](#) |
+| Landing Page | Elementor | [Live](#) |
+
+> ⚠️ Replace `#` with real links when ready
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://pk.linkedin.com/in/hamza-ali-0b56bb215" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hamzabinali95@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -75,6 +88,6 @@ Currently: Available for freelance projects 💼
 
 ---
 
-<p align="center" style="color:white;">
-  🚀 Thanks for stopping by! Let's build something amazing together.
+<p align="center">
+  🖤 Thank you for visiting my profile — Let's work together and make something awesome!
 </p>
